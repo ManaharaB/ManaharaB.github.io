@@ -1,11 +1,8 @@
 <sitemapindex xmlns="http://sitemaps.org/schemas/sitemap/0.9" encoding="UTF-8">
 <sitemap>
-<loc>https://www.asml.com/sitemap-1.xml</loc>
+<loc>https://raw.githubusercontent.com/ManaharaB/ManaharaB.github.io/refs/heads/main/sitemap.xml</loc>
 </sitemap>
 <sitemap>
-<loc>https://www.asml.com/sitemap-2.xml</loc>
-</sitemap>
-<sitemap>
-<loc>https://www.asml.com/en/job_posting-sitemap.xml</loc>
+<loc>https://raw.githubusercontent.com/ManaharaB/ManaharaB.github.io/refs/heads/main/sitemap3.xml</loc>
 </sitemap>
 </sitemapindex>
