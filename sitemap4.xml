@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://example.com/?page=1</loc>
-    <lastmod>2026-04-11</lastmod>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://httpbin.org/status/200?id=2</loc>
-    <lastmod>2026-04-11</lastmod>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.shopify.com/?test=3</loc>
+    <loc>https://www.shopify.com/shipping</loc>
     <lastmod>2026-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://example.com/?page=4</loc>
-    <lastmod>2026-04-11</lastmod>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://httpbin.org/status/200?id=5</loc>
-    <lastmod>2026-04-11</lastmod>
+    <lastmod>2026-03-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.shopify.com/?test=6</loc>
-    <lastmod>2026-03-11</lastmod>
+    <loc>https://www.shopify.com/domains</loc>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -49,8 +49,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.shopify.com/?test=9</loc>
-    <lastmod>2026-03-11</lastmod>
+    <loc>https://www.shopify.com/magic</loc>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -67,8 +67,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.shopify.com/?test=12</loc>
-    <lastmod>2026-03-11</lastmod>
+    <loc>https://www.shopify.com/discounts</loc>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
@@ -85,8 +85,8 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://www.shopify.com/?test=15</loc>
-    <lastmod>2026-03-11</lastmod>
+    <loc>https://www.shopify.com/analytics</loc>
+    <lastmod>2026-04-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
